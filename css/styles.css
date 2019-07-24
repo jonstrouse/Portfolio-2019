@@ -99,7 +99,8 @@ nav li:hover {
   width: 100%;
 }
 .title img {
-  height: 50px;
+  margin-top: 40px;
+  width: 400px;
 }
 
 /* Main Content Styles */
